@@ -1,1 +1,1 @@
-command! -nargs=0 log call logbook#Execute()
+command! -nargs=0 Log call logbook#Execute()
