@@ -1,7 +1,7 @@
 # vim-logbook
 
 vim-logbook is a minimalist vim plugin which makes keeping a programming logbook
-easier. I find that keeping a logbook improves my focus, debugging and learning.
+easier. I find that keeping a logbook improves my learning, debugging and focus.
 
 I've [blogged about keeping a
 logbook](https://routley.io/tech/2017/11/23/logbook.html), and I highly
