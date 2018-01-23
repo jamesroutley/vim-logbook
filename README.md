@@ -19,6 +19,23 @@ vim-logbook implements two commands:
 - `:Lb`: open today's log file in the current buffer
 - `:Ts`: insert a timestamp under the cursor
 
+## Example log file
+
+```markdown
+Tue 23 Jan 23:24:00 2018
+- TODO:
+- Write README for vim-logbook
+- Write help doc for vim-logbook
+
+Tue 23 Jan 23:27:57 2018
+- Vim help doc guidelines can be found with `:help help-writing`
+- http://stevelosh.com/blog/2011/09/writing-vim-plugins/#write-a-vim-help-document
+
+Tue 23 Jan 23:38:55 2018
+- Updated vim-logbook readme with logbook example
+```
+
+
 ## Install
 
 vim-logbook can be installed with your favourite plugin manager.
