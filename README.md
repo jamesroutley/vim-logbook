@@ -16,7 +16,7 @@ vim-logbook assumes the following structure:
 ## Commands
 
 vim-logbook implements two commands:
-- `:Lb` - open today's log file in the current buffer
+- `:Lb` - open today's logbook in the current buffer
 - `:Ts` - insert a timestamp under the cursor
 
 ## Example log file
