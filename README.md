@@ -1,13 +1,14 @@
 # vim-logbook
 
-vim-logbook is a minimal vim plugin which makes keeping a programming logbook
+vim-logbook is a minimalist vim plugin which makes keeping a programming logbook
 easier. I find that keeping a logbook improves my focus, debugging and learning.
-I've blogged about keeping a logbook
-[here](https://routley.io/tech/2017/11/23/logbook.html), and I'd highly
+
+I've [blogged about keeping a
+logbook](https://routley.io/tech/2017/11/23/logbook.html), and I highly
 recommend [Peter Lyons](https://peterlyons.com/)' [article on the same
 topic](https://peterlyons.com/leveling-up#your-work-journal).
 
-vim-logbook assumes the following logbook structure:
+vim-logbook assumes the following structure:
 - Each day's logs are stored in a separate file, stored at
   `~/logbook/yyyy-mm-dd.md`
 - Each logbook entry is marked with a timestamp
@@ -15,8 +16,8 @@ vim-logbook assumes the following logbook structure:
 ## Commands
 
 vim-logbook implements two commands:
-- `:Lb`, which opens today's logfile in the current buffer
-- `:Ts`, which inserts a timestamp under the cursor
+- `:Lb`: open today's log file in the current buffer
+- `:Ts`: insert a timestamp under the cursor
 
 ## Install
 
