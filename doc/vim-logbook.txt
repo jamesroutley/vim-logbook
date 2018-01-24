@@ -1,0 +1,18 @@
+*vim-logbook.txt*
+                                                                 *vim-logbook*
+
+==============================================================================
+CONTENTS                                                *vim-logbook-contents*
+  1. Commands...........................................|vim-logbook-commands|
+
+==============================================================================
+COMMANDS                                                *vim-logbook-commands*
+
+:Lb                                                                      *:Lb*
+  Open today's logbook in the current buffer
+
+:Ts                                                                      *:Ts*
+  Insert a timestamp under the cursor
+
+
+vim:tw=78:ts=8:ft=help:norl:
